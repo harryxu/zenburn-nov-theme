@@ -86,7 +86,7 @@
         "name": "Constant",
         "scope": "constant.language, support.constant, constant.other.color, entity.name.type.variant.ocaml, source.rust variable.language.rust, support.type.rust, source.elixir constant.other.symbol.elixir, source.elixir constant.other.symbol.elixir punctuation.definition.constant.elixir, source.elixir variable.language.elixir, source.elixir constant.other.keywords.elixir, source.ruby constant.other.symbol, source.ruby punctuation.definition.constant",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dca3a3", // pale chestnut
         }
     },
@@ -101,7 +101,7 @@
         "name": "Character",
         "scope": "constant.character, source.scss keyword.operator.ampersand, source.css keyword.operator.ampersand",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dca3a3", // pale chestnut
         }
     },
@@ -146,7 +146,7 @@
         "name": "Conditional",
         "scope": "keyword.control.conditional",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#f0dfaf", // pale goldenrod
         }
     },
@@ -154,7 +154,7 @@
         "name": "Repeat",
         "scope": "keyword.control.loop, source.scss keyword.control.flow.sass",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#ffd7a7", // navajo
         }
     },
@@ -176,7 +176,7 @@
         "name": "Keyword",
         "scope": "keyword, constant.other.keyword.clojure - keyword.operator - keyword.operator.word - keyword.control.flow.return.js - keyword.operator.logical",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#f0dfaf", // pale goldenrod
         }
     },
@@ -184,7 +184,7 @@
         "name": "Statement",
         "scope": "entity.name.tag, punctuation.definition.list_item, source.shell.bash support.function, keyword.control.flow.return.js, keyword.declaration.function.python, keyword.control.flow.assert.python, keyword.operator.new.cs - keyword.control.import, keyword.control.default, keyword.control.export, keyword.control.from, keyword.control.as, source.sql keyword.other, source.sql keyword.operator.assignment",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#e3ceab", // hampton
         }
     },
@@ -192,7 +192,7 @@
         "name": "Exception",
         "scope": "keyword.control.exception.try, keyword.control.exception.catch, text.html.basic entity.name.tag.script, source.cs keyword.control.trycatch",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#c3bf9f", // reef
         }
     },
@@ -208,7 +208,7 @@
         "name": "Include",
         "scope": "keyword.control.import.include, keyword.control.at-rule.import.scss, keyword.control.at-rule.import.scss punctuation.definition.keyword.scss, source.scss meta.function-call.sass variable.function.sass punctuation.definition.keyword.sass, keyword.control.import.js, keyword.control.default.js, keyword.control.export.js, keyword.control.from.js, keyword.control.as.js, keyword.control.import.python, keyword.control.import.from.python, keyword.other.use.php, meta.module-reference.ocaml, support.other.module.ocaml, entity.name.type.module.ocaml, keyword.control.import.haskell, namespace.open.fsharp keyword.fsharp, source.fsharp keyword.control.directive.fsharp, source.cs keyword.control.import.cs, source.go keyword.other.import.go, source.rust meta.path.rust, meta.declaration.module.elm keyword.other.elm, meta.import.elm keyword.other.elm, source.elm meta.import.elm keyword.import.elm, source.java meta.package-declaration.java keyword.other.package.java, source.java meta.import.java keyword.control.import.java",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dfaf8f", // calico
         }
     },
@@ -223,7 +223,7 @@
         "name": "Macro",
         "scope": "support.macro.rust, source.ruby keyword.other.special-method",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#ffcfaf", // peach
         }
     },
@@ -231,7 +231,7 @@
         "name": "PreCondit",
         "scope": "keyword.control.import.c, meta.preprocessor.c, keyword.control.import.c++, meta.preprocessor.c++",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dfaf8f", // calico
         }
     },
@@ -239,7 +239,7 @@
         "name": "Type",
         "scope": "entity.name.type, support.type, entity.other.attribute-name, storage.type, support.class.builtin, source.scss entity.other, constant.other.haskell, source.haskell meta.import.haskell support.other.module.haskell, source.haskell meta.declaration.module.haskell entity.name.namespace.haskell, abstract.definition.fsharp entity.name.type.fsharp, source.elixir entity.name.type, source.java support.class.java, entity.name.class.ruby, entity.other.inherited-class.ruby, support.class.ruby",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dfdfbf", // tan
         }
     },
@@ -247,7 +247,7 @@
         "name": "StorageClass",
         "scope": "storage.modifier, support.type.property-name, abstract.definition.fsharp keyword.fsharp, keyword.declaration, storage.type.js, storage.type.ts",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#c3bf9f", // reef
         }
     },
@@ -255,7 +255,7 @@
         "name": "Structure",
         "scope": "keyword.declaration.enum, keyword.declaration.struct, keyword.declaration.union, variable.language.this.js, keyword.declaration.type.haskell",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#efefaf", // goldenrod
         }
     },
@@ -270,7 +270,7 @@
         "name": "SpecialComment",
         "scope": "variable.annotation",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#82a282", // amulet
         }
     },
@@ -285,7 +285,7 @@
         "name": "Title",
         "scope": "entity.name.section.markdown",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#efefef", // gallery
         }
     },
@@ -295,7 +295,7 @@
         "name": "Overrides",
         "scope": "keyword.operator.logical",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#dedede", // fg
         }
     },
@@ -331,7 +331,7 @@
         "name": "markup bold",
         "scope": "markup.bold",
         "settings": {
-            "fontStyle": "bold"
+            "fontStyle": ""
         }
     },
     {
@@ -395,7 +395,7 @@
         "name": "diff.inserted",
         "scope": "markup.inserted",
         "settings": {
-            "fontStyle": "bold",
+            "fontStyle": "",
             "foreground": "#efdcbc", // champagne
         }
     },
