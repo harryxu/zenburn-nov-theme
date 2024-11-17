@@ -1,10 +1,10 @@
 {
-  "name": "zenburn",
+  "name": "zenburn-nov",
   "version": "2.2.0",
-  "displayName": "Zenburn",
+  "displayName": "Zenburn Nov",
   "description": "Optimized Zenburn theme for VS Code",
-  "publisher": "ryanolsonx",
-  "repository": "https://github.com/ryanolsonx/vscode-zenburn-theme",
+  "publisher": "harryxu",
+  "repository": "https://github.com/harryxu/zenburn-nov-theme",
   "license": "MIT",
   "icon": "icon.png",
   "keywords": [
@@ -22,15 +22,10 @@
   "contributes": {
     "themes": [
       {
-        "label": "Zenburn",
+        "label": "Zenburn  Nov",
         "uiTheme": "vs-dark",
-        "path": "./themes/zenburn.json"
+        "path": "./themes/zenburn-nov.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "9be673da-cf39-4f71-83c3-b2ec5241813a",
-    "publisherDisplayName": "Ryan Olson",
-    "publisherId": "d4b4d2bb-55a5-4fbd-b44b-46713208148e"
   }
 }

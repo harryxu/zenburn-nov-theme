@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "name": "Zenburn Nov",
   "type": "dark",
   "colors": {
     "activityBar.background": "#313633",
